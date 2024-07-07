@@ -12,7 +12,7 @@ class Type_Promotion_In_Java{
 
         System.out.println("Value of result is"+result);
 
-        System.out.println("Type: " + ((Object) result).getName());
+        System.out.println("Type: " + ((Object) result).getClass().getName());
 
 
     }
