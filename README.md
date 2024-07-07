@@ -2,6 +2,8 @@
 
 This repository contains a sequence of Java codes designed for beginners to learn and understand various Java concepts. Below are the Java programs included in this repository:
 
+## 📁 Programs Included
+
 1. **Hello_World.java**: A basic program to print "Hello, World!" to the console.
 2. **Variables_In_Java.java**: Demonstrates the declaration and usage of variables in Java.
 3. **Data_Types_In_Java.java**: Explores different data types available in Java.
@@ -20,4 +22,7 @@ To run all these codes, follow these steps:
    java main_method_class_name
    For example, to run the Hello_World program:
    java HelloWorld
+
+
+Feel free to explore and run each program to understand the fundamental concepts of Java! 💻
  
