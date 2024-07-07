@@ -22,7 +22,7 @@ To run these programs, follow these steps:
     git clone https://github.com/manahiljawed-mj/Java.git
    ```
    ```
-    cd Java/Basic_Java_Codes/Codes
+    cd Java/OOP_With_Java/Codes
    ```
 
 3. **Compile Java files (if necessary):**
