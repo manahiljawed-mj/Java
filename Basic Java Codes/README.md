@@ -13,6 +13,9 @@ This repository contains a sequence of Java programs designed for beginners to l
    - **➗ Arithmetic_Operators_In_Java.java**: Covers arithmetic operators in Java.
    - **🔍 Relational_Operators_In_Java.java**: Discusses relational operators in Java.
    - **🔗 Logical_Operators_In_Java.java**: Demonstrates logical operators in Java.
+   - **🌟 if_else_in_java.java**: Example of using if-else statements in Java.
+   - **🔗 if_else_if_in_java.java**:Example of using if-else-if ladder in Java.
+   - **➡️Ternary_Operator_In_Java.java**:Example of using ternary operator in Java.
 
 
 ## 🚀 Running the Code
