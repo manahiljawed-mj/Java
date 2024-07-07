@@ -20,13 +20,13 @@ This repository contains a sequence of Java programs designed for beginners to l
    - **🔄 while_loop_in_java.java**: Example of using while loop in Java.
    - **🔁 do_while_loop_in_java.java**: Example of using do-while loop in Java.
    - **🔢 for_loop_in_java.java**: Example of using for loop in Java.
-
+  
 2. **🏛️ OOP with Java**: This folder contains programs related to Object-Oriented Programming in Java.
-   - **🏗️ Class_and_Objects.java**: Basics of classes and objects.
-   - **📚 Inheritance.java**: Demonstrates inheritance in Java.
-   - **🎭 Polymorphism.java**: Illustrates polymorphism in Java.
-   - **🔐 Encapsulation.java**: Shows encapsulation in Java.
-   - **🎨 Abstraction.java**: Demonstrates abstraction in Java.
+   - **👋 classes_and_objects.java**: Illustrates basic class structure and object instantiation in Java.
+   - **🔢 jdk_jre_jvm.java**: Explores different data types and their usage in Java applications.
+   - **🔧 methods_in_java.java**: Demonstrates the implementation and invocation of methods in Java classes.
+   - **🔄 method_overloading_in_java.java**: Shows how methods can be overloaded to handle various input scenarios.
+   - **🌐 input_from_console.java**: Illustrates reading different data types (integer, string, float, and character) from the console.
 
 3. **🗂️ Data Structures with Java**: This folder includes implementations of various data structures.
    - **📁 Arrays.java**: Basic array operations.
