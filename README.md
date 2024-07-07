@@ -1,17 +1,37 @@
 # 📘 Java Learning Repository
 
-This repository contains a sequence of Java programs designed for beginners to learn and understand various Java concepts. Below are the Java programs included:
+This repository contains a sequence of Java programs designed for beginners to learn and understand various Java concepts. Below are the folders included in this repository:
 
-## 📁 Programs Included
+## 📁 Folders Included
 
-1. **Hello_World.java**: A basic program to print "Hello, World!" to the console.
-2. **Variables_In_Java.java**: Demonstrates the declaration and usage of variables in Java.
-3. **Data_Types_In_Java.java**: Explores different data types available in Java.
-4. **Type_Conversion_Type_Casting_In_Java.java**: Shows how to convert and cast data types in Java.
-5. **Type_Promotion_In_Java.java**: Illustrates type promotion in Java.
-6. **Arithmetic_Operators_In_Java.java**: Covers arithmetic operators in Java.
-7. **Relational_Operators_In_Java.java**: Discusses relational operators in Java.
-8. **Logical_Operators_In_Java.java**: Demonstrates logical operators in Java.
+1. **📝 Basic Java Codes**: This folder contains fundamental Java programs.
+   - **👋 Hello_World.java**: A basic program to print "Hello, World!" to the console.
+   - **📊 Variables_In_Java.java**: Demonstrates the declaration and usage of variables in Java.
+   - **🔢 Data_Types_In_Java.java**: Explores different data types available in Java.
+   - **🔄 Type_Conversion_Type_Casting_In_Java.java**: Shows how to convert and cast data types in Java.
+   - **🚀 Type_Promotion_In_Java.java**: Illustrates type promotion in Java.
+   - **➗ Arithmetic_Operators_In_Java.java**: Covers arithmetic operators in Java.
+   - **🔍 Relational_Operators_In_Java.java**: Discusses relational operators in Java.
+   - **🔗 Logical_Operators_In_Java.java**: Demonstrates logical operators in Java.
+
+2. **🏛️ OOP with Java**: This folder contains programs related to Object-Oriented Programming in Java.
+   - **🏗️ Class_and_Objects.java**: Basics of classes and objects.
+   - **📚 Inheritance.java**: Demonstrates inheritance in Java.
+   - **🎭 Polymorphism.java**: Illustrates polymorphism in Java.
+   - **🔐 Encapsulation.java**: Shows encapsulation in Java.
+   - **🎨 Abstraction.java**: Demonstrates abstraction in Java.
+
+3. **🗂️ Data Structures with Java**: This folder includes implementations of various data structures.
+   - **📁 Arrays.java**: Basic array operations.
+   - **🔗 LinkedList.java**: Implementation of linked list.
+   - **📚 Stack.java**: Stack operations using arrays/linked list.
+   - **📤 Queue.java**: Queue operations using arrays/linked list.
+   - **🌳 BinaryTree.java**: Basic binary tree operations.
+
+4. **💡 Java Projects**: This folder contains small projects to apply Java concepts.
+   - **🧮 Calculator.java**: A simple calculator application.
+   - **📚 LibraryManagementSystem.java**: A basic library management system.
+   - **💬 ChatApplication.java**: A simple chat application.
 
 ## 🚀 Running the Code
 
@@ -19,7 +39,7 @@ To run these programs, follow these steps:
 
 1. **Clone the repository:**
     git clone https://github.com/manahiljawed-mj/Java.git
-    cd Java
+    cd foldername
 
 2. **Compile Java files (if necessary):**
 - If you need to compile `.java` files to `.class` files, use `javac`:
