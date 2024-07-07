@@ -28,10 +28,14 @@ This repository contains a sequence of Java programs designed for beginners to l
 To run these programs, follow these steps:
 
 1. **Clone the repository:**
+   ```
     git clone https://github.com/manahiljawed-mj/Java.git
-    cd Basic Java Codes/Codes
+   ```
+   ```
+    cd Java/Basic_Java_Codes/Codes
+   ```
 
-2. **Compile Java files (if necessary):**
+3. **Compile Java files (if necessary):**
 - If you need to compile `.java` files to `.class` files, use `javac`:
   ```
   javac filename.java
