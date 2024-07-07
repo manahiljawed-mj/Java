@@ -18,7 +18,7 @@ To run all these codes, follow these steps:
    git clone https://github.com/manahiljawed-mj/Java.git
 2. Navigate to the directory:
    cd Java
-3.Since the .class files are already present, you can run the programs directly using the command below (replace main_method_class_name with the appropriate class name containing the main method):
+3. Since the .class files are already present, you can run the programs directly using the command below (replace main_method_class_name with the appropriate class name containing the main method):
    java main_method_class_name
    For example, to run the Hello_World program:
    java HelloWorld
