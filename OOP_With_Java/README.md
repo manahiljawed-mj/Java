@@ -4,22 +4,12 @@ This repository contains a sequence of Java programs designed for beginners to l
 
 ## 📁 Folders Included
 
-1. **📝 Basic Java Codes**: This folder contains fundamental Java programs.
-   - **👋 Hello_World.java**: A basic program to print "Hello, World!" to the console.
-   - **🔧 Variables_In_Java.java**: Demonstrates the declaration and usage of variables in Java.
-   - **🔢 Data_Types_In_Java.java**: Explores different data types available in Java.
-   - **🔄 Type_Conversion_Type_Casting_In_Java.java**: Shows how to convert and cast data types in Java.
-   - **🌐 Type_Promotion_In_Java.java**: Illustrates type promotion in Java.
-   - **➕ Arithmetic_Operators_In_Java.java**: Covers arithmetic operators in Java.
-   - **🔍 Relational_Operators_In_Java.java**: Discusses relational operators in Java.
-   - **🔗 Logical_Operators_In_Java.java**: Demonstrates logical operators in Java.
-   - **🌟 if_else_in_java.java**: Example of using if-else statements in Java.
-   - **🔗 if_else_if_in_java.java**: Example of using if-else-if ladder in Java.
-   - **➡️ Ternary_Operator_In_Java.java**: Example of using ternary operator in Java.
-   - **⚡ switch_statement_in_java.java**: Example of using switch statement in Java.
-   - **🔄 while_loop_in_java.java**: Example of using while loop in Java.
-   - **🔁 do_while_loop_in_java.java**: Example of using do-while loop in Java.
-   - **🔢 for_loop_in_java.java**: Example of using for loop in Java.
+1. **📝 OOP With Java**: This folder contains fundamental Java programs with a focus on Object-Oriented Programming (OOP).
+   - **👋 classes_and_objects.java**: Illustrates basic class structure and object instantiation in Java.
+   - **🔢 jdk_jre_jvm.java**: Explores different data types and their usage in Java applications.
+   - **🔧 methods_in_java.java**: Demonstrates the implementation and invocation of methods in Java classes.
+   - **🔄 method_overloading_in_java.java**: Shows how methods can be overloaded to handle various input scenarios.
+   - **🌐 input_from_console.java**: Illustrates reading different data types (integer, string, float, and character) from the console.
    
 
 
@@ -28,10 +18,14 @@ This repository contains a sequence of Java programs designed for beginners to l
 To run these programs, follow these steps:
 
 1. **Clone the repository:**
+   ```
     git clone https://github.com/manahiljawed-mj/Java.git
-    cd Basic Java Codes/Codes
+   ```
+   ```
+    cd Java/OOP_With_Java/Codes
+   ```
 
-2. **Compile Java files (if necessary):**
+3. **Compile Java files (if necessary):**
 - If you need to compile `.java` files to `.class` files, use `javac`:
   ```
   javac filename.java

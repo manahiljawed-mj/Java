@@ -32,26 +32,30 @@ To run these programs, follow these steps:
     git clone https://github.com/manahiljawed-mj/Java.git
    ```
    ```
-    cd Java/Basic_Java_Codes/Codes
+    cd Java/Basic_Java_Codes
    ```
 
 3. **Compile Java files (if necessary):**
 - If you need to compile `.java` files to `.class` files, use `javac`:
+- 
   ```
-  javac filename.java
+  javac Codes/filename.java
   ```
   Replace `filename.java` with the Java file you want to compile.
 
 3. **Run the programs:**
 - Run the Java programs using the `java` command:
   ```
-  java main_method_class_name
+  java Codes.main_method_class_name
   ```
   Replace `main_method_class_name` with the appropriate class name containing the main method.
 
-- For example, to run the `Hello_World` program:
+- For example, to run the `Hello_World.java` program:
   ```
-  java Hello_World
+  javac Codes/Hello_World.java
+  ```
+  ```
+  java Codes.Hello_World
   ```
 
 Feel free to explore and run each program to understand the fundamental concepts of Java! 💻
