@@ -6,10 +6,7 @@ This repository contains a sequence of Java programs designed for beginners to l
 
 1. **📝 Basic Java Codes**: This folder contains fundamental Java programs.
   
-2. **🏛️ OOP with Java**: This folder contains programs related to Object-Oriented Programming in Java.
-
-3. **🗂️ Data Structures with Java**: This folder includes implementations of various data structures.
-
+2. **🏛️ OOP AND DataStructures**: This folder contains programs related to Object-Oriented Programming in Java and includes implementations of various data structure.
 
 ## 🚀 Running the Code
 
