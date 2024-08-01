@@ -5,11 +5,128 @@ This repository contains a sequence of Java programs designed for beginners to l
 ## 📁 Folders Included
 
 1. **📝 OOP With Java**: This folder contains fundamental Java programs with a focus on Object-Oriented Programming (OOP).
-   - **👋 classes_and_objects.java**: Illustrates basic class structure and object instantiation in Java.
-   - **🔢 jdk_jre_jvm.java**: Explores different data types and their usage in Java applications.
-   - **🔧 methods_in_java.java**: Demonstrates the implementation and invocation of methods in Java classes.
-   - **🔄 method_overloading_in_java.java**: Shows how methods can be overloaded to handle various input scenarios.
-   - **🌐 input_from_console.java**: Illustrates reading different data types (integer, string, float, and character) from the console.
+     ### 🛠 ArrayInJava.java
+Demonstrates the use of arrays in Java.
+
+### 🧰 ArrayOfObjects.java
+Shows how to work with arrays of objects in Java.
+
+### 🚀 Constructors_in_java.java
+Explains the use of constructors in Java.
+
+### 🔗 Interface.java
+Discusses the concept of interfaces in Java.
+
+### 🔄 Multiple_Threads.java
+Demonstrates the creation and management of multiple threads.
+
+### 🚦 Runnable_In_Java.java
+Example of implementing the Runnable interface in Java.
+
+### 🔤 StringInJava.java
+Covers the basics and functionalities of strings in Java.
+
+### 🏛 abstractClass.java
+Explains the concept and usage of abstract classes.
+
+### 🕶 anonymousObjects.java
+Shows how to use anonymous objects in Java.
+
+### 👻 anonymous_inner_class_and_abstract_class.java
+Demonstrates anonymous inner classes and abstract classes.
+
+### 👥 anonymous_object.java
+Further exploration of anonymous objects in Java.
+
+### 🗂 arraylist.java
+Discusses the ArrayList class and its methods.
+
+### 🏗 classes_and_objects.java
+Basic principles of classes and objects in Java.
+
+### 📝 demo.java
+A demonstration file for various Java features.
+
+### ⬇️⬆️ downcasting_and_upcasting.java
+Explains downcasting and upcasting concepts.
+
+### 🚀 dynamic_method_dispatch.java
+Demonstrates dynamic method dispatch.
+
+### 🔒 encapsulation_in_java.java
+Discusses encapsulation and its benefits.
+
+### 🔄 enchanced_forloop_in_java.java
+Usage of the enhanced for-loop in Java.
+
+### 🏁 final_keyword.java
+Explanation of the final keyword and its applications.
+
+### 👨‍👩‍👧‍👦 inheritance.java
+Covers inheritance and its use in Java.
+
+### 🌐 innerClass.java
+Discusses inner classes and their usage.
+
+### 🖥 input_from_console.java
+How to read input from the console in Java.
+
+### ❓ interview_question.java
+Contains commonly asked Java interview questions.
+
+### ❓ interview_question2.java
+Continuation of Java interview questions.
+
+### ☕ jdk_jre_jvm.java
+Explains the differences between JDK, JRE, and JVM.
+
+### 🔀 lambda_expression.java
+Introduction to lambda expressions in Java.
+
+### 🗺 maps.java
+Covers the Map interface and its implementations.
+
+### 📚 method_overloading_in_java.java
+Demonstrates method overloading.
+
+### 🔄 method_overriding_in_java.java
+Shows method overriding in Java.
+
+### ⚙️ methods_in_java.java
+Discusses methods and their usage in Java.
+
+### 🌀 polymorphism.java
+Explains the concept of polymorphism.
+
+### 🏃‍♂️ race_condition.java
+Discusses race conditions in multithreading.
+
+### 📊 sets.java
+Covers the Set interface and its implementations.
+
+### 📦 static_block_in_java.java
+Demonstrates the use of static blocks.
+
+### 🔄 static_methods_in_java.java
+Explains static methods and their applications.
+
+### 📊 static_variable_in_java.java
+Discusses static variables in Java.
+
+### 🔄 this_and_super_methods.java
+Usage of this and super keywords.
+
+### 🎯 this_keyword.java
+Detailed exploration of the this keyword.
+
+### 🔄 toString_and_equal_method.java
+Demonstrates the toString and equals methods.
+
+### 🔄 type_of_interfaces.java
+Discusses different types of interfaces in Java.
+
+### 🎁 wrapper_class.java
+Covers wrapper classes and their usage in Java.
    
 
 
