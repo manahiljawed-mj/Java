@@ -5,7 +5,7 @@ This repository contains a sequence of Java programs designed for beginners to l
 ## 📁 Folders Included
 
 1. **📝 OOP With Java**: This folder contains fundamental Java programs with a focus on Object-Oriented Programming (OOP).
-     ### 🛠 ArrayInJava.java
+### 🛠 ArrayInJava.java
 Demonstrates the use of arrays in Java.
 
 ### 🧰 ArrayOfObjects.java
@@ -139,7 +139,7 @@ To run these programs, follow these steps:
     git clone https://github.com/manahiljawed-mj/Java.git
    ```
    ```
-    cd Java/OOP_With_Java/Codes
+    cd Java/OOP_And_DataStructures/Codes
    ```
 
 3. **Compile Java files (if necessary):**
